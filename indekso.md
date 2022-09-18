@@ -77,6 +77,22 @@ Aŭstralio, Nov-Zelando, ktp.
 - Subklaso GV — Amuzaĵoj. Tempopasigoj.
 
 ### Klaso H — Sociaj sciencoj.
+- Subklaso H — Sociaj sciencoj (ĝenerale).
+- Subklaso HA — Statistiko.
+- Subklaso HB — Ekonomia teoriaro. Demografio.
+- Subklaso HC — Ekonomia historio kaj cirkonstancoj.
+- Subklaso HD — Industrioj. Landouzo. Laboro.
+- Subklaso HE — Transporto. Komunikado.
+- Subklaso HF — Komerco.
+- Subklaso HG — Financo.
+- Subklaso HJ — Publika financo.
+- Subklaso HM — Sociologio.
+- Subklaso HN — Sociaj historio kaj cirkonstancoj. Sociaj problemoj. Sociaj reformoj.
+- Subklaso HQ — La familio. Edziĝo. Virinoj.
+- Subklaso HS — Societoj: sekretaj, bonvolaj, ktp.
+- Subklaso HT — Komunumoj. Klasoj. Rasoj.
+- Subklaso HV — Socia patologio. Socia kaj publika bonfaro.
+- Subklaso HX — Socialismo. Komunismo. Anarĥiismo.
 ### Klaso J — Politika scienco.
 ### Klaso K — Juro.
 ### Klaso L — Edukado.
