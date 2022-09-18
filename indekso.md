@@ -1,4 +1,6 @@
-### Klaso A — Ĝeneralaj verkoj
+# Indekso de subklasoj
+
+### Klaso A — Ĝeneralaj verkoj.
 - Subklaso AC — Kolektoj. Serioj. Kolektitaj verkoj.
 - Subklaso AE — Enciklopedioj.
 - Subklaso AG — Vortaroj kal aliaj ĝeneralaj referencoverkoj.
@@ -38,8 +40,7 @@
 - Subklaso CS — Genealogio.
 - Subklaso CT — Biografio.
 
-### Klaso D — Monda historio kaj historio de Eŭropo, Azio, Afriko,
-Aŭstralio, Nov-Zelando, ktp.
+### Klaso D — Monda historio kaj historio de Eŭropo, Azio, Afriko, Aŭstralio, Nov-Zelando, ktp.
 - Subklaso D — Historio (ĝenerale).
 - Subklaso DA — Britio.
 - Subklaso DAW — Mezeŭropo.
@@ -94,6 +95,19 @@ Aŭstralio, Nov-Zelando, ktp.
 - Subklaso HV — Socia patologio. Socia kaj publika bonfaro.
 - Subklaso HX — Socialismo. Komunismo. Anarĥiismo.
 ### Klaso J — Politika scienco.
+- Subklaso J — Leĝdonaj kaj plenumaj dokumentoj (ĝenerale).
+- Subklaso JA — Politika scienco (ĝenerale).
+- Subklaso JC — Politika filozofio.
+- Subklaso JF — Politikaj institucioj kaj publika administrado.
+- Subklaso JJ — Politikaj institucioj kaj publika administrado (Nordameriko).
+- Subklaso JK — Politikaj institucioj kaj publika administrado (Usono).
+- Subklaso JL — Politikaj institucioj kaj publika administrado (Kanado, Latinameriko ktp).
+- Subklaso JN — Politikaj institucioj kaj publika administrado (Eŭropo).
+- Subklaso JQ — Politikaj institucioj kaj publika administrado (Azio, Afriko, Aŭstralio, Pacifika loko, ktp).
+- Subklaso JS — Lokaj registaroj. Urbaj registaroj.
+- Subklaso JV — Kolonioj kaj koliniigo. Elmigrado kaj enmigrado.
+- Subklaso JX (arkaike) — Internacia leĝo, vidu JZ kaj KZ.
+- Subklaso JZ — Internaciaj rilatoj.
 ### Klaso K — Juro.
 ### Klaso L — Edukado.
 ### Klaso M — Muziko kaj libroj pri muziko.
