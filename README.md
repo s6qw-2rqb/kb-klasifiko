@@ -3,7 +3,7 @@ Tradukaĵo esperanten de la [Kongresa Biblioteko Klasifiko](https://eo.wikipedia
 
 Ĝi troviĝas en:
 - Tradukita PDF
-- Indekso de subklasoj
+- [Indekso de subklasoj](indekso.md)
 - La dosierujoj
 
 ## Kiel povas mi kontribui?
