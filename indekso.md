@@ -109,7 +109,29 @@
 - Subklaso JX (arkaike) — Internacia leĝo, vidu JZ kaj KZ.
 - Subklaso JZ — Internaciaj rilatoj.
 ### Klaso K — Juro.
+- Subklaso K — Juro ĝenerale. Kompara kaj unuforma juro. Jurisprudenco.
+- Subklaso KB — Religia juro ĝenerale. Kompara religia juro. Jurisprudenco.
+- Subklaso KD — Britio kaj Irlando.
+- Subklaso KE — Kanado.
+- Subklaso KF — Usono.
+- Subklaso KG — Latinameriko. Meksiko kaj Mezameriko. Okcidentaj Hindioj. Karibia loko.
+- Subklaso KH — Sudameriko.
+- Subklaso KJ-KK — Eŭropo.
+- Subklaso KL-KW — Azio kaj Eŭrazio. Afriko. Pacifika loko. Antarktiko.
+- Subklaso KZ — Juro de nacioj.
 ### Klaso L — Edukado.
+- Subklaso L — Edukado (ĝenerale).
+- Subklaso LA — Historio de edukado.
+- Subklaso LB — Teorio kaj praktikado de edukado.
+- Subklaso LC — Specialaj aspektoj de edukado.
+- Subklaso LD — Solaj institucioj – Usono.
+- Subklaso LE — Solaj institucioj – Ameriko (krom Usono).
+- Subklaso LF — Solaj institucioj – Eŭropo.
+- Subklaso LG — Solaj institucioj – Azio. Afriko. Insuloj de la Hinda Oceano. Aŭstralio. Nov-Zelando. Pacifikaj insuloj.
+- Subklaso LH — Universitataj kaj lernejaj gazetoj kaj ĵurnaloj.
+- Subklaso LJ — Frataroj kaj societoj de studantoj – Usono.
+- Subklaso LT — Lernolibroj.
+
 ### Klaso M — Muziko kaj libroj pri muziko.
 ### Klaso N — Belartoj.
 ### Klaso P — Lingvo kaj literaturo.
