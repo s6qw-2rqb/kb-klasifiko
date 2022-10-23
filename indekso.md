@@ -135,6 +135,28 @@
 ### Klaso M — Muziko kaj libroj pri muziko.
 ### Klaso N — Belartoj.
 ### Klaso P — Lingvo kaj literaturo.
+- Subklaso P — Filologio. Lingvistiko.
+- Subklaso PA — Greka lingvo kaj literaturo. Latina lingvo kaj literaturo.
+- Subklaso PB — Modernaj lingvoj. Kelta lingvaro.
+- Subklaso PC — Latinida lingvaro.
+- Subklaso PD — Ĝermana lingvaro. Skandinava lingvaro.
+- Subklaso PE — Angla lingvo.
+- Subklaso PF — Okcident-ĝermana lingvaro.
+- Subklaso PG — Slava lingvaro. Balta lingvaro. Albana lingvo.
+- Subklaso PH — Urala lingvaro. Eŭska lingvo.
+- Subklaso PJ — Orientaj lingvaroj kaj literaturoj.
+- Subklaso PK — Hindirana lingvaro kaj literaturo.
+- Subklaso PL — Lingvoj kaj literaturoj de Orienta Azio, Afriko, Oceanio.
+- Subklaso PM — Hiperboreaj, indianaj, kaj artefaritaj lingvaroj.
+- Subklaso PN — Literaturo (ĝenerale).
+- Subklaso PQ — Franca literaturo. Itala literaturo. Hispana literaturo.
+  Portugala literaturo.
+- Subklaso PR — Angla literaturo.
+- Subklaso PS — Usona literaturo.
+- Subklaso PT — Germana literaturo. Nederlanda literaturo. Flandra literaturo
+  ekde 1830. Afrikansa literaturo. Skandinava literaturo. Malnov-nordlanda
+  literaturo: malnov-islanda kaj malnov-norvega. Miderna islanda literaturo.
+  Feroa literaturo. Dana literaturo. Norvega literaturo. Sveda literaturo.
 ### Klaso Q — Scienco.
 ### Klaso R — Medicino.
 ### Klaso S — Agrikulturo.
