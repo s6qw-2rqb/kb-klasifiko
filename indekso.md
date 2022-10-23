@@ -135,7 +135,7 @@
 ### Klaso M — Muziko kaj libroj pri muziko.
 ### Klaso N — Belartoj.
 ### Klaso P — Lingvo kaj literaturo.
-- Subklaso P — Filologio. Lingvistiko.
+- Subklaso P — Filologio. Lingvoscienco.
 - Subklaso PA — Greka lingvo kaj literaturo. Latina lingvo kaj literaturo.
 - Subklaso PB — Modernaj lingvoj. Kelta lingvaro.
 - Subklaso PC — Latinida lingvaro.
@@ -155,9 +155,21 @@
 - Subklaso PS — Usona literaturo.
 - Subklaso PT — Germana literaturo. Nederlanda literaturo. Flandra literaturo
   ekde 1830. Afrikansa literaturo. Skandinava literaturo. Malnov-nordlanda
-  literaturo: malnov-islanda kaj malnov-norvega. Miderna islanda literaturo.
+  literaturo: malnov-islanda kaj malnov-norvega. Moderna islanda literaturo.
   Feroa literaturo. Dana literaturo. Norvega literaturo. Sveda literaturo.
 ### Klaso Q — Scienco.
+- Subklaso Q — Scienco (ĝenerale).
+- Subklaso QA — Nombroscienco.
+- Subklaso QB — Steloscienco.
+- Subklaso QC — Medioscienco.
+- Subklaso QD — Eroscienco.
+- Subklaso QE — Rokoscienco.
+- Subklaso QH — Natura historio (ĝenerale). Vivoscienco.
+- Subklaso QK — Plantoscienco.
+- Subklaso QL — Bestoscienco.
+- Subklaso QM — Homa formovivoscienco.
+- Subklaso QP — Funkciovivoscienco.
+- Subklaso QR — Etavivoscienco.
 ### Klaso R — Medicino.
 ### Klaso S — Agrikulturo.
 ### Klaso T — Teĥnologio.
