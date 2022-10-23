@@ -157,6 +157,7 @@
   ekde 1830. Afrikansa literaturo. Skandinava literaturo. Malnov-nordlanda
   literaturo: malnov-islanda kaj malnov-norvega. Moderna islanda literaturo.
   Feroa literaturo. Dana literaturo. Norvega literaturo. Sveda literaturo.
+- Subklaso PZ — Fikcio kaj junaj belartoj.
 ### Klaso Q — Scienco.
 - Subklaso Q — Scienco (ĝenerale).
 - Subklaso QA — Nombroscienco.
@@ -173,6 +174,23 @@
 ### Klaso R — Medicino.
 ### Klaso S — Agrikulturo.
 ### Klaso T — Teĥnologio.
+- Subklaso T — Teĥnologio (ĝenerale).
+- Subklaso TA — Inĝenierarto (ĝenerale). Konstrua inĝenierarto.
+- Subklaso TC — Akva iĝenierarto. Oceana iĝenierarto.
+- Subklaso TD — Media iloscienco. Saniga inĝenierarto.
+- Subklaso TE — Ŝosea inĝenierarto. Vojoj kaj pavimoj.
+- Subklaso TF — Fervoja inĝenierarto kaj operacio.
+- Subklaso TG — Ponta inĝenierarto.
+- Subklaso TH — Konstruado de konstruaĵoj.
+- Subklaso TJ — Maŝina inĝenierarto.
+- Subklaso TK — Elektra-inĝenierarto. Elektroniko. Nuklea inĝenierarto.
+- Subklaso TL — Motorovetoriloj. Aeronaŭtiko. Kosmonaŭtiko.
+- Subklaso TN — Mina inĝenierarto. Metalurgio.
+- Subklaso TP — Ĥemia teĥnologio.
+- Subklaso TR — Fotografio.
+- Subklaso TS — Muntaĵoj.
+- Subklaso TT — Metiartoj. Artoj kaj metioj.
+- Subklaso TX — Hejma ekonomio.
 ### Klaso U — Militforta scienco.
 ### Klaso V — Mararmea scienco.
 ### Klaso Z — Bibliografio. Biblioteka scienco. Informaj resursoj (ĝeneralaj).
