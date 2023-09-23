@@ -1,7 +1,7 @@
 # kb-klasifiko
-Tradukaĵo esperanten de la [Kongresa Biblioteko Klasifiko](https://eo.wikipedia.org/wiki/Klasifiko_de_la_Kongresa_Biblioteko)
+Tradukaĵo esperanten de la [Kongresa Biblioteko Klasifiko](https://eo.wikipedia.org/wiki/Klasifiko_de_la_Kongresa_Biblioteko).
 
-Ĝi troviĝas en:
+La celo estas traduki resumon ĝis sufiĉa profundo. Ĝi troviĝos en:
 - Tradukita PDF
 - [Indekso de subklasoj](indekso.md)
 - La dosierujoj
