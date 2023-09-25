@@ -1,6 +1,6 @@
 # Indekso de subklasoj
 
-### Klaso A — Ĝeneralaj verkoj.
+## Klaso A — Ĝeneralaj verkoj.
 - Subklaso AC — Kolektoj. Serioj. Kolektitaj verkoj.
 - Subklaso AE — Enciklopedioj.
 - Subklaso AG — Vortaroj kal aliaj ĝeneralaj referencoverkoj.
@@ -11,7 +11,7 @@
 - Subklaso AS — Akademioj kaj lernitaj socioj.
 - Subklaso AZ — Historio de erudicio kaj lernado. Homa scienco.
 
-### Klaso B — Filozofio. Psikologio. Religio.
+## Klaso B — Filozofio. Psikologio. Religio.
 - Subklaso B — Filozofio (ĝenerale)
 - Subklaso BC — Logiko.
 - Subklaso BD — Spekulativa filozofio.
@@ -28,7 +28,7 @@
 - Subklaso BV — Praktika teologio.
 - Subklaso BX — Kristanismaj eklezioj.
 
-### Klaso C — Aldonaj sciencoj de historio.
+## Klaso C — Aldonaj sciencoj de historio.
 - Subklaso C — Aldonaj sciencoj de historio (ĝenerale).
 - Subklaso CB — Historio de civilizacio.
 - Subklaso CC — Arkeologio.
@@ -40,7 +40,7 @@
 - Subklaso CS — Genealogio.
 - Subklaso CT — Biografio.
 
-### Klaso D — Monda historio kaj historio de Eŭropo, Azio, Afriko, Aŭstralio, Nov-Zelando, ktp.
+## Klaso D — Monda historio kaj historio de Eŭropo, Azio, Afriko, Aŭstralio, Nov-Zelando, ktp.
 - Subklaso D — Historio (ĝenerale).
 - Subklaso DA — Britio.
 - Subklaso DAW — Mezeŭropo.
@@ -62,10 +62,10 @@
 - Subklaso DU — Oceanio (Sudaj maroj).
 - Subklaso DX — Romaoj.
 
-### Klaso E — Historio de Ameriko.
-### Klaso F — Historio de Ameriko (pluante).
+## Klaso E — Historio de Ameriko.
+## Klaso F — Historio de Ameriko (pluante).
 
-### Klaso G — Geografio. Antropologio. Amuzaĵoj.
+## Klaso G — Geografio. Antropologio. Amuzaĵoj.
 - Subklaso G — Geografio (ĝenerale). Atlasoj. Mapoj.
 - Subklaso GA — Matematika geografio. Kartografio.
 - Subklaso GB — Fizika geografio.
@@ -77,7 +77,7 @@
 - Subklaso GT — Moroj kaj kutimoj (ĝenerale).
 - Subklaso GV — Amuzaĵoj. Tempopasigoj.
 
-### Klaso H — Sociaj sciencoj.
+## Klaso H — Sociaj sciencoj.
 - Subklaso H — Sociaj sciencoj (ĝenerale).
 - Subklaso HA — Statistiko.
 - Subklaso HB — Ekonomia teoriaro. Demografio.
@@ -94,7 +94,8 @@
 - Subklaso HT — Komunumoj. Klasoj. Rasoj.
 - Subklaso HV — Socia patologio. Socia kaj publika bonfaro.
 - Subklaso HX — Socialismo. Komunismo. Anarĥiismo.
-### Klaso J — Politika scienco.
+
+## Klaso J — Politika scienco.
 - Subklaso J — Leĝdonaj kaj plenumaj dokumentoj (ĝenerale).
 - Subklaso JA — Politika scienco (ĝenerale).
 - Subklaso JC — Politika filozofio.
@@ -108,7 +109,8 @@
 - Subklaso JV — Kolonioj kaj koliniigo. Elmigrado kaj enmigrado.
 - Subklaso JX (arkaike) — Internacia leĝo, vidu JZ kaj KZ.
 - Subklaso JZ — Internaciaj rilatoj.
-### Klaso K — Juro.
+
+## Klaso K — Juro.
 - Subklaso K — Juro ĝenerale. Kompara kaj unuforma juro. Jurisprudenco.
 - Subklaso KB — Religia juro ĝenerale. Kompara religia juro. Jurisprudenco.
 - Subklaso KD — Britio kaj Irlando.
@@ -119,7 +121,8 @@
 - Subklaso KJ-KK — Eŭropo.
 - Subklaso KL-KW — Azio kaj Eŭrazio. Afriko. Pacifika loko. Antarktiko.
 - Subklaso KZ — Juro de nacioj.
-### Klaso L — Edukado.
+
+## Klaso L — Edukado.
 - Subklaso L — Edukado (ĝenerale).
 - Subklaso LA — Historio de edukado.
 - Subklaso LB — Teorio kaj praktikado de edukado.
@@ -132,9 +135,22 @@
 - Subklaso LJ — Frataroj kaj societoj de studantoj – Usono.
 - Subklaso LT — Lernolibroj.
 
-### Klaso M — Muziko kaj libroj pri muziko.
-### Klaso N — Belartoj.
-### Klaso P — Lingvo kaj literaturo.
+## Klaso M — Muziko kaj libroj pri muziko.
+- Subklaso M — Muziko.
+- Subklaso ML — Literaturo pri muziko.
+- Subklaso MT — Instruado kaj studado.
+
+## Klaso N — Belartoj.
+- Subklaso N — Vidaj artoj.
+- Subklaso NA — Arĥitekturo.
+- Subklaso NB — Skulptarto.
+- Subklaso NC — Desegno. Ilustrado.
+- Subklaso ND — Pentrado.
+- Subklaso NE — Presaĵoj.
+- Subklaso NK — Ornamentaj artoj.
+- Subklaso NX — Artoj ĝenerale.
+
+## Klaso P — Lingvo kaj literaturo.
 - Subklaso P — Filologio. Lingvoscienco.
 - Subklaso PA — Greka lingvo kaj literaturo. Latina lingvo kaj literaturo.
 - Subklaso PB — Modernaj lingvoj. Kelta lingvaro.
@@ -158,7 +174,8 @@
   literaturo: malnov-islanda kaj malnov-norvega. Moderna islanda literaturo.
   Feroa literaturo. Dana literaturo. Norvega literaturo. Sveda literaturo.
 - Subklaso PZ — Fikcio kaj junaj belartoj.
-### Klaso Q — Scienco.
+
+## Klaso Q — Scienco.
 - Subklaso Q — Scienco (ĝenerale).
 - Subklaso QA — Nombroscienco.
 - Subklaso QB — Steloscienco.
@@ -171,9 +188,12 @@
 - Subklaso QM — Homa formovivoscienco.
 - Subklaso QP — Funkciovivoscienco.
 - Subklaso QR — Etavivoscienco.
-### Klaso R — Medicino.
-### Klaso S — Agrikulturo.
-### Klaso T — Teĥnologio.
+
+## Klaso R — Medicino.
+
+## Klaso S — Agrikulturo.
+
+## Klaso T — Teĥnologio.
 - Subklaso T — Teĥnologio (ĝenerale).
 - Subklaso TA — Inĝenierarto (ĝenerale). Konstrua inĝenierarto.
 - Subklaso TC — Akva iĝenierarto. Oceana iĝenierarto.
@@ -191,6 +211,9 @@
 - Subklaso TS — Muntaĵoj.
 - Subklaso TT — Metiartoj. Artoj kaj metioj.
 - Subklaso TX — Hejma ekonomio.
-### Klaso U — Militforta scienco.
-### Klaso V — Mararmea scienco.
-### Klaso Z — Bibliografio. Biblioteka scienco. Informaj resursoj (ĝeneralaj).
+
+## Klaso U — Militforta scienco.
+
+## Klaso V — Mararmea scienco.
+
+## Klaso Z — Bibliografio. Biblioteka scienco. Informaj resursoj (ĝeneralaj).
